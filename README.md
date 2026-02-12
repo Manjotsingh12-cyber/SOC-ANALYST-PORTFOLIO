@@ -26,15 +26,15 @@ I am a detail-oriented **SOC Analyst** and **BCA candidate** at Chandigarh Unive
 #### 🏗️ [Security Operations Home Lab](https://github.com/Manjotsingh12-cyber)
 # 🏗️ Advanced SOC Lab: Full-Stack SIEM & IDS Deployment
 ### Deployment, Configuration, and Attack Simulation 
-## 📺 Project Demo
-> [Link to your YouTube Video]
 *In this video, I walk through the Splunk installation process, the Snort configuration, and a live demonstration of detecting a Brute-Force attack in real-time.
 
 This repository documents the end-to-end creation of a Security Operations Center (SOC) lab. Unlike basic setups, this project involved the manual installation and tuning of the entire defensive stack to identify and mitigate real-world attack vectors.
 
 ---
 
-## 🛠️ Phase 1: Infrastructure & Installation
+## 🛠️ Phase 1: Infrastructure & Installation [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/bKot7h2yYhw)
+
+
 I architected and built the environment from scratch to ensure a deep understanding of log pipeline.
 
 * **Splunk Enterprise:** Performed manual installation on Linux, configuring indexes and data inputs.
