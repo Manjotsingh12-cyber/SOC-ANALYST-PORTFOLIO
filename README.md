@@ -45,7 +45,8 @@ I architected and built the environment from scratch to ensure a deep understand
 ## ⚔️ Phase 2: Attack Simulation & Impact
 To test the lab, I executed controlled attacks to observe the log signatures and measure detection impact.
 
-### 1. Brute-Force Attack (RDP/SSH)
+### 1. Brute-Force Attack (RDP/SSH)[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/TST9h7KGap4)
+
 * **Action:** Simulated a high-volume credential stuffing attack.
 * **Log Evidence:** Identified **Event ID 4625** (Failed Logons) within Splunk.
 * **Detection Impact:** Authored SPL queries to trigger alerts when failed logons exceeded a specific threshold, reducing triage noise.
