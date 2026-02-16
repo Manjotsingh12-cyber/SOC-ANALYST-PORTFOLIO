@@ -74,7 +74,8 @@ I developed custom Splunk dashboards to visualize the attack surface:
 
 
 # 🤖 Security Automation Engine: IOC Extractor & Threat Intel
-### Automating Triage with Python & REST APIs
+### Automating Triage with Python & REST APIs[![GitHub Repo](https://img.shields.io/badge/GitHub-Threat--Intel--Automation-blue?logo=github)](https://github.com/Manjotsingh12-cyber/threat-intel-automation)
+
 
 This repository contains a Python-based framework designed to streamline the initial phases of incident response by automating the extraction and validation of Indicators of Compromise (IOCs).
 
