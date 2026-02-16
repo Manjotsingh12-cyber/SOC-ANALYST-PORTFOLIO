@@ -56,7 +56,7 @@ To test the lab, I executed controlled attacks to observe the log signatures and
 * **Detection:** Utilized **Snort** signatures and **Zeek** flow logs to identify anomalous traffic patterns.
 * **Analysis:** Captured and analyzed traffic via **Wireshark** to document packet-level Indicators of Compromise (IOCs).
 
-## 📈 Phase 3: Detection Engineering (SPL)
+## 📈 Phase 3: Detection Engineering (SPL)[![YouTube Badge](https://img.shields.io/badge/YouTube-Watch%20Lab%20Part%202-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pNxj-hasnR0?si=rfzniDTcnTft7S3Z)
 I developed custom Splunk dashboards to visualize the attack surface:
 * **High-Fidelity Alerts:** Tuned queries for **Event ID 4688** to monitor suspicious process creations.
 * **Automation:** Linked detection alerts to a **Python framework** that automatically cross-references source IPs with **AbuseIPDB**, reducing manual triage time by **30%**.
